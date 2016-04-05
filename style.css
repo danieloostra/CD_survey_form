@@ -1,0 +1,36 @@
+fieldset{
+	padding: 30px;
+	width: 350px;
+	line-height: 50px;
+}
+
+.submit_button{
+	position: relative;
+	left: 250px;
+	top: 10px;
+	background-color: #0BB5FF; /* Police Strobe Blue */
+    border: 1px;
+    border-color: black;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 2px 2px grey;
+}
+
+.sub_format{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.results{
+	position: relative;
+	left: 50px;
+}
+
+.boxarea {
+	width: 300px;
+	height: 80px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+}
